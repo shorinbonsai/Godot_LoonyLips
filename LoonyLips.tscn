@@ -8,7 +8,7 @@
 
 [sub_resource type="DynamicFont" id=1]
 
-size = 35
+size = 30
 use_mipmaps = false
 use_filter = false
 font_data = ExtResource( 3 )
@@ -73,9 +73,9 @@ anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_left = 10.0
-margin_top = 530.0
-margin_right = 810.0
-margin_bottom = 590.0
+margin_top = 520.0
+margin_right = 690.0
+margin_bottom = 585.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
 focus_mode = 2
@@ -99,9 +99,9 @@ anchor_left = 0.0
 anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
-margin_left = 820.0
+margin_left = 710.0
 margin_top = 530.0
-margin_right = 869.0
+margin_right = 759.0
 margin_bottom = 579.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
@@ -125,8 +125,8 @@ anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_left = 60.0
-margin_right = 140.0
-margin_bottom = 60.0
+margin_right = 270.0
+margin_bottom = 50.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = true
 mouse_filter = 0
