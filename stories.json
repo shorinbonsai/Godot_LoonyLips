@@ -1,0 +1,19 @@
+[
+		{
+		"prompt" : [
+      "a name",
+      "a thing",
+      "a feeling",
+      "another feeling",
+      "some things"],
+		"story" : "Once upon a time %s took his %s and accidently smooshed it. They felt %s.  This made him feel very %s but there was still a %s."
+		},
+		{
+		"prompt" : [
+      "a creature",
+      "a thing", "a feeling",
+      "a colour","a feeling",
+      "some things"],
+		"story" : "There once was a %s that smelled like a %s. They felt %s.  Despite everything they felt %s and very %s that there weren't a %s."
+		}
+		]
